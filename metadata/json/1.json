@@ -1,0 +1,26 @@
+{
+  "platform": "CCDAO PASS NFT",
+  "name": "CCDAO PASS #1",
+  "description": "对于CCDAO来说，CCDAO PASS 应用于以下几个方面：访问权限控制：NFT Pass可以作为CCDAO项目中的一种身份验证机制，用户可以通过持有NFT Pass来验证其身份，获得特定资源或内容的访问权限。社区身份认证：NFT Pass可以作为CCDAO社区中给予有贡献者的一种认证方式。持有特定NFT Pass成为社区社长或注入社区重要资源。激励与奖励：CCDAO可以以NFT Pass为奖励，通过发放NFT Pass奖励给那些为DAO贡献的开发者、投资者和社区成员。取代传统股份证明：像传统的股份证明一样，NFT Pass可以表示投资者在DAO中的权益和份额，持有NFT Pass的人拥有DAO协议和活动中的投票权和分红权。社交网络：NFT Pass可以作为CCDAO社交网络的会员证明，用户通过持有该NFT Pass成为群体关系的认证者一员，享有特殊权益。社区官网: https://ccdao.club/",
+  "external_url": "https://freegpt.one/",
+  "image": "https://nft.ccdao.club/metadata/images/1.png",
+  "id": "b3bdfbc75245af8f6d0fa80cede2e21d43515a4a",
+  "edition": 1,
+  "date": 1679120442346,
+  "attributes": [
+    {
+      "trait_type": "PASS",
+      "value": "pass"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ],
+  "animation_url": "https://freegpt.one/",
+  "compiler": "CCDAO Team",
+  "interactive_nft": {
+    "code_uri": "https://freegpt.one/",
+    "version": "1.0"
+  }
+}
